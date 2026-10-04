@@ -1,0 +1,5 @@
+x=input('enter your string:')
+print(x.upper())
+print(x.lower())
+print(x.split())
+print(x.replace('ha','ra'))
